@@ -1,9 +1,12 @@
 
 
-## Coding Environment
+# Python Basics
 
-Login in to your course, using the credentials given to you.
+## Strings
 
-> http://52.173.25.31/hub/login
+strings can be delimited by single or double quotation marks.
 
-
+```
+single_quoted_string = 'I love SG'
+double_quoted_string = "I love SG"
+```
