@@ -22,10 +22,10 @@ There are multiple ways to concatinate (combine) strings.
 Let's say you have first_name and last_name strings. 
 
 ```
-first_name="Muthu"
-last_name="Srinivasan"
+first_name="Santa"
+last_name="Claus"
 ```
-How to get "Muthu Srinivasan" together?
+How to get "Santa Claus" together?
 
 There are multiple ways.
 1/ string addition
